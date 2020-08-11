@@ -1,0 +1,64 @@
+body,
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400; }
+
+/*HEADER style*/
+.header .navbar {
+  min-height: 120px; }
+.header .nav-link {
+  color: #000; }
+.header .nav-link:hover {
+  opacity: 0.8; }
+.header .navbar-toggler__icon {
+  display: block;
+  width: 15px;
+  height: 2px;
+  margin-bottom: 3px;
+  background-color: #000; }
+.header .navbar-toggler__icon:last-child {
+  margin-bottom: none; }
+.header .header-content {
+  position: relative;
+  min-height: 656px;
+  background: url("../img/header-content__bg.jpg") center -120px no-repeat; }
+  .header .header-content h1 {
+    margin-bottom: 40px;
+    padding-top: 185px;
+    color: #fff;
+    font-size: 60px;
+    font-weight: 600; }
+  .header .header-content p {
+    margin-bottom: 110px;
+    color: #fff;
+    font-size: 22px; }
+.header .header-content__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.45); }
+.header .our-services__btn,
+.header .hire-now__btn {
+  display: inline-block;
+  width: 220px;
+  padding: 20px 0;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #00897b;
+  font-size: 20px;
+  font-weight: 700; }
+.header .our-services__btn {
+  margin-right: 30px;
+  padding: 16px 0;
+  border: 4px solid #fff;
+  background-color: transparent; }
+.header .our-services__btn:hover,
+.header .hire-now__btn:hover {
+  opacity: 0.8; }
+
+/*HEADER style ends*/
