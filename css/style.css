@@ -1,29 +1,22 @@
 body,
 html {
+  color: #000;
+  background-color: #fff;
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   font-weight: 400; }
 
 /*HEADER style*/
 .header .navbar {
-  min-height: 120px; }
-.header .nav-link {
-  color: #000; }
-.header .nav-link:hover {
-  opacity: 0.8; }
-.header .navbar-toggler__icon {
-  display: block;
-  width: 15px;
-  height: 2px;
-  margin-bottom: 3px;
-  background-color: #000; }
-.header .navbar-toggler__icon:last-child {
-  margin-bottom: none; }
+  padding: 37.5px 15px;
+  font-size: 20px;
+  font-weight: 600; }
 .header .header-content {
   position: relative;
   min-height: 656px;
   background: url("../img/header-content__bg.jpg") center -120px no-repeat; }
   .header .header-content h1 {
+    margin: 0;
     margin-bottom: 40px;
     padding-top: 185px;
     color: #fff;
@@ -61,4 +54,177 @@ html {
 .header .hire-now__btn:hover {
   opacity: 0.8; }
 
+.navbar-light .navbar-nav .nav-link {
+  color: black; }
+
 /*HEADER style ends*/
+/*ABOUT style*/
+#about {
+  padding: 125px 0; }
+  #about .title {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600; }
+  #about .text {
+    margin: 0;
+    margin-bottom: 125px;
+    line-height: 22px; }
+  #about .card {
+    text-align: center;
+    border: none; }
+  #about .card-body {
+    padding: 0 15px; }
+  #about .card img {
+    width: 62px;
+    height: 62px;
+    margin: 0 auto;
+    margin-bottom: 40px; }
+  #about .card h3 {
+    margin-bottom: 20px;
+    font-size: 20px; }
+
+/*ABOUT style ends*/
+/*SERVICING style */
+#servicing {
+  padding: 125px 0;
+  background-color: #e4fdf9; }
+  #servicing .title {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600; }
+  #servicing .text {
+    margin: 0;
+    margin-bottom: 125px;
+    line-height: 22px; }
+  #servicing .read-more__btn {
+    display: inline-block;
+    width: 150px;
+    padding: 11px 0 10px 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    border: 2px solid #000;
+    font-size: 20px;
+    font-weight: 600; }
+  #servicing .card {
+    padding: 60px 40px 50px 40px;
+    border: none;
+    border-radius: 0; }
+    #servicing .card img {
+      margin-bottom: 40px; }
+  #servicing .card:hover {
+    color: #fff;
+    background-color: #00897B; }
+    #servicing .card:hover .read-more__btn {
+      color: #fff;
+      border-color: #fff; }
+  #servicing .card-body {
+    padding: 0; }
+  #servicing .card-title {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600; }
+  #servicing .card-text {
+    margin: 0;
+    margin-bottom: 40px;
+    line-height: 25px; }
+
+/*SERVICING style ends*/
+/*PRICING  */
+#pricing {
+  padding: 125px 0;
+  background-color: rgba(6, 12, 11, 0.2); }
+  #pricing .title {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600; }
+  #pricing .text {
+    margin: 0;
+    margin-bottom: 125px;
+    line-height: 22px; }
+  #pricing .order-now__btn {
+    display: inline-block;
+    width: 180px;
+    padding: 11px 0 10px 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    border: 2px solid #000;
+    font-size: 20px;
+    font-weight: 600; }
+  #pricing .card {
+    padding: 50px 20px;
+    border: none;
+    border-radius: 0; }
+  #pricing .card-header {
+    margin-bottom: 50px;
+    padding: 0;
+    border: none;
+    background-color: transparent; }
+    #pricing .card-header p {
+      margin: 0;
+      font-size: 25px; }
+    #pricing .card-header p:last-of-type {
+      font-size: 17px; }
+    #pricing .card-header p:last-of-type sup {
+      top: -22px;
+      font-size: 100%; }
+    #pricing .card-header span {
+      font-size: 50px; }
+  #pricing .card-body {
+    padding: 0; }
+  #pricing .list-group {
+    margin-bottom: 65px; }
+  #pricing .list-group-item {
+    margin: 0 25px 35px 25px;
+    padding: 0;
+    font-size: 17px; }
+  #pricing .list-group-item:last-child {
+    margin-bottom: 0; }
+
+/*PRICING  style ends*/
+/*MEDIA HEADER queries*/
+@media (max-width: 767.98px) {
+  .header .nav-btn {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    -webkit-transform: translateY(-20px);
+            transform: translateY(-20px);
+    border: none;
+    outline: none;
+    background-color: transparent; }
+    .header .nav-btn .nav-btn__icon:hover path {
+      fill: rgba(0, 0, 0, 0.6); }
+  .header .header-content h1 {
+    font-size: 40PX; }
+
+  #about .card {
+    margin-bottom: 50px; } }
+@media (max-width: 575.98px) {
+  .header .header-content h1 {
+    padding-top: 50px;
+    font-size: 40px; }
+  .header .header-content p {
+    margin-bottom: 70px;
+    font-size: 20px;
+    line-height: 33px; }
+  .header .our-services__btn {
+    width: 100%;
+    margin-right: none;
+    margin-bottom: 15px; }
+  .header .hire-now__btn {
+    width: 100%; } }
+/*MEDIA HEADER queries ends*/
