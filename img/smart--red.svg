@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 62 62" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g>
+    <path style="stroke-width: 2px; fill: none; stroke: rgb(255, 0, 0);" d="M 36.727 32.963 L 36.727 58.119 C 36.551 59.544 35.733 60.532 34.273 61.081 L 6.403 61.081 C 5.225 60.864 4.41 60.135 3.959 58.893 L 3.959 3.403 C 4.296 2.196 5.071 1.344 6.284 0.848 L 34.526 0.848 C 35.964 1.349 36.808 2.2 37.058 3.399 L 37.058 22.843"/>
+    <path style="fill: rgb(216, 216, 216); stroke-width: 2px; stroke: rgb(255, 0, 0);" d="M 4.5 48.709 L 35.872 48.709"/>
+    <path style="fill: rgb(216, 216, 216); stroke-width: 2px; stroke: rgb(255, 0, 0);" d="M 4.714 7.129 L 36.086 7.129"/>
+    <rect x="15.796" y="3.382" width="4.889" height="1.452" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"/>
+    <rect x="22.873" y="3.4" width="2.135" height="1.368" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);"/>
+    <path d="M 714.066 468.477 m -3.6 0 a 3.6 3.6 0 1 0 7.2 0 a 3.6 3.6 0 1 0 -7.2 0 Z M 714.066 468.477 m -2.16 0 a 2.16 2.16 0 0 1 4.32 0 a 2.16 2.16 0 0 1 -4.32 0 Z" style="stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);" transform="matrix(-0.554397, 0.832253, -0.832253, -0.554397, 805.866718, -279.753366)" bx:shape="ring 714.066 468.477 2.16 2.16 3.6 3.6 1@0c4423e5"/>
+    <path style="vector-effect: non-scaling-stroke; stroke-width: 0px; paint-order: fill; stroke: rgb(255, 0, 0); fill: rgb(255, 0, 0);" d="M 31.192 14.21 L 32.663 15.422 L 21.065 27.118 L 59.011 27.118 L 59.011 28.875 L 21.001 28.875 L 32.681 40.013 L 31.296 41.398 L 17.538 27.858 L 31.192 14.21 Z"/>
+  </g>
+  <path style="fill: rgb(216, 216, 216); stroke-width: 2px; stroke: rgb(240, 18, 18);" d="M 44.845 60.2"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 48.459 47.646"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 36.294 53.26"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 20.193 32.997"/>
+</svg>

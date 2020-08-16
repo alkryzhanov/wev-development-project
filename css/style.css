@@ -113,14 +113,21 @@ html {
     padding: 60px 40px 50px 40px;
     border: none;
     border-radius: 0; }
-    #servicing .card img {
-      margin-bottom: 40px; }
+    #servicing .card .servicing-icon {
+      display: inline-block;
+      width: 62px;
+      height: 62px;
+      margin-bottom: 40px;
+      background-image: url("../img/smart.svg");
+      background-size: cover; }
   #servicing .card:hover {
     color: #fff;
     background-color: #00897B; }
     #servicing .card:hover .read-more__btn {
       color: #fff;
       border-color: #fff; }
+    #servicing .card:hover .servicing-icon {
+      background-image: url("../img/smart--white.svg"); }
   #servicing .card-body {
     padding: 0; }
   #servicing .card-title {
@@ -189,6 +196,133 @@ html {
     margin-bottom: 0; }
 
 /*PRICING  style ends*/
+/*TEAM MEMBERS  style */
+#team-members {
+  padding: 125px 0; }
+  #team-members .title {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600; }
+  #team-members .text {
+    margin: 0;
+    margin-bottom: 125px;
+    line-height: 22px; }
+  #team-members .card {
+    margin: 0;
+    padding: 0;
+    border: none; }
+  #team-members .card-img-top {
+    margin-bottom: 40px; }
+  #team-members .card-body {
+    margin: 0;
+    padding: 0; }
+  #team-members .card-title {
+    margin-bottom: 10px; }
+  #team-members .card-text {
+    margin-bottom: 30px; }
+  #team-members .social-list .list-link {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: #f0f1f1; }
+    #team-members .social-list .list-link i {
+      color: #00897b; }
+  #team-members .social-list .list-link:hover {
+    background-color: #3949ab; }
+    #team-members .social-list .list-link:hover i {
+      color: #fff; }
+
+/*TEAM MEMBERS style ends*/
+/*BLOG  style */
+#blog {
+  padding: 125px 0;
+  background-color: #e4fdf9; }
+  #blog .title {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600; }
+  #blog .text {
+    margin: 0;
+    margin-bottom: 125px;
+    line-height: 22px; }
+  #blog .blog-content {
+    padding-top: 60px; }
+    #blog .blog-content h5 {
+      margin: 0;
+      margin-bottom: 25px;
+      font-size: 25px;
+      font-weight: 600; }
+    #blog .blog-content h5:hover {
+      cursor: pointer;
+      color: #00897b; }
+  #blog .blog-content__data {
+    margin-bottom: 20px; }
+    #blog .blog-content__data span {
+      display: inline-block;
+      font-size: 17px;
+      font-weight: 600; }
+      #blog .blog-content__data span:first-child {
+        margin-right: 40px; }
+  #blog .more-view__btn {
+    width: 220px;
+    margin-top: 125px;
+    padding: 11px 0 10px 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #00897b;
+    font-size: 20px;
+    font-weight: 600; }
+
+/*BLOG  style ends*/
+/*CONTACT  style*/
+#contact {
+  padding: 125px 0; }
+  #contact .title {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600; }
+  #contact .text {
+    margin: 0;
+    margin-bottom: 125px;
+    line-height: 22px; }
+  #contact .card {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    border: none; }
+  #contact .card-body {
+    margin: 0;
+    padding: 0; }
+  #contact .card__img {
+    width: 105px;
+    height: 105px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    border-radius: 50%; }
+    #contact .card__img--pin {
+      background: url("../img/contact-pin.svg") no-repeat center center #3949ab; }
+    #contact .card__img--phone {
+      background: url("../img/contact-phone.svg") no-repeat center center #3949ab; }
+    #contact .card__img--mail {
+      background: url("../img/contact-mail.svg") no-repeat center center #3949ab; }
+  #contact .card-text {
+    font-size: 20px; }
+
+/*CONTACT  style ends*/
 /*MEDIA HEADER queries*/
 @media (max-width: 767.98px) {
   .header .nav-btn {
