@@ -2,7 +2,7 @@ body,
 html {
   color: #000;
   background-color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px;
   font-weight: 400; }
 
@@ -122,7 +122,7 @@ html {
       background-size: cover; }
   #servicing .card:hover {
     color: #fff;
-    background-color: #00897B; }
+    background-color: #00897b; }
     #servicing .card:hover .read-more__btn {
       color: #fff;
       border-color: #fff; }
@@ -381,7 +381,9 @@ html {
     .header .nav-btn .nav-btn__icon:hover path {
       fill: rgba(0, 0, 0, 0.6); }
   .header .header-content h1 {
-    font-size: 40PX; }
+    font-size: 40px; }
+  .header .our-services__btn {
+    margin-right: 0; }
 
   #about .card {
     margin-bottom: 50px; } }
