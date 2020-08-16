@@ -289,7 +289,10 @@ html {
 /*BLOG  style ends*/
 /*CONTACT  style*/
 #contact {
-  padding: 125px 0; }
+  padding: 125px 0;
+  color: #fff;
+  background: url("../img/contact-bg.jpg") center center no-repeat;
+  background-size: cover; }
   #contact .title {
     margin: 0;
     margin-bottom: 30px;
@@ -303,10 +306,14 @@ html {
     margin: 0;
     padding: 0;
     text-align: center;
-    border: none; }
+    border: none;
+    background-color: transparent; }
   #contact .card-body {
     margin: 0;
-    padding: 0; }
+    padding: 0;
+    font-size: 20px; }
+    #contact .card-body a {
+      color: #fff; }
   #contact .card__img {
     width: 105px;
     height: 105px;
@@ -320,9 +327,40 @@ html {
     #contact .card__img--mail {
       background: url("../img/contact-mail.svg") no-repeat center center #3949ab; }
   #contact .card-text {
-    font-size: 20px; }
+    font-size: 20px;
+    line-height: 28px; }
+  #contact form {
+    padding-top: 80px; }
+    #contact form .form-control {
+      padding: 35px 25px;
+      color: rgba(33, 33, 33, 0.8);
+      border-radius: 10px;
+      font-size: 20px;
+      font-weight: 600; }
+    #contact form textarea {
+      min-height: 320px;
+      margin-bottom: 40px;
+      resize: none; }
+  #contact .submit__btn {
+    display: inline-block;
+    width: 220px;
+    padding: 11px 0 10px 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 20px;
+    font-weight: 600; }
 
 /*CONTACT  style ends*/
+/*FOOTER  style */
+.footer {
+  padding: 23px 0 22px 0;
+  font-size: 20px; }
+
+/*FOOTER  style ends*/
 /*MEDIA HEADER queries*/
 @media (max-width: 767.98px) {
   .header .nav-btn {
