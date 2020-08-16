@@ -1,31 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<image id="phone-call" width="62" height="62" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAQAAADZyGDPAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfkCBAQCiWMpXDXAAAD3ElEQVRYw73YW4gWZRjA8WcXlVVTKjRxi8Q85EWZsVa6ZiaVZAcrqosgytSig2FkkYVtXRQEQWAHL1QsI5QOpJu6UXhjCpGZRuABBbcFo8NulpuUueavi2+x3XZmv9ndGee9+ub5P9//nZln3nnfN8T/2h0+9KM2+y13eZdorq3zz+E26Xy8eKbkV2kBK8w22b22gPfPhPxmsNvEDuH5YGPR8uvBx12AWrChSHlJ8VEiMgs8XJR8AqhPhZ4EI4uQ93MYX3SLfYBdRcgXoEVFGbAZj+cvb8BLZcGH8Jf+ecubMDsD+gvm5yuvjJER8VOUP5ZFxH0ZuB4clVEZEf9kID+NiKlRla/8t4gYmoFsjYj+MThfeXNEjMxAjo2IY9Gar3xvRFySgXwhIjZGW77ybyNiallucUyJiLo81RHhGhwv8wbPBM/mP8j0dwIzu4FmgPfyVpc+LOuwOhW5oSh1ST4Lv6cAAx0vbjoRQoU/MD0RKFVEIWpRGRHi9YhYmnMlZ6r2EM4G4xJ6N8hx3FTcbQ9hNTYnIm9jR7Hy0WBMAjIGXF2kPGzH54nQCuwrVl66wuRpxWGsKlIe3sSBRGwimFekfIATWJAIvgyuLE4e7sEpwxPRz/CnYcXJw0bsTIG/xEFVxcmrwdJEeICmfBcPXU8tApMS8Wony65u+iQPm3AwJaHWSWwpTl56r9enpFymLS998unxoC4lqUYbthUlD/PA7SnRSWCHwcXIwypQkxKd7ij2O78YeajHMSNSoqMcwhG1qflVnrHVIXuscWdP5eEbNDorJTrE16SuXW90uNOm2sGuA3f38kGasceAlHhF+3bZG10ij4Ef1Jnjbm85ChpcmF0eJjiCXQamEq+Aba7rcG4xeLdDQQ61RDP+9mB2ebhIK3anXn2YrhGsN0MIz6Wsb4ao77ytmKUqJ2jFd6nPPlR55/ST3QeeTiFLHfskuzyM1YoDqrthaq07XVxLuuHmtN+lzPIwThN+LTOdGGG2W40u81814LXs8nCOneC2zBnp7S4wuWdJ9WVvatbWgA09TVoL1vZZPgUtPU9bCL7q42RyMHqVOFlTt69TllaNU71LHaQBbE6Z6ZZvj2B/7/teGi5a3d+r7J9R15fndnF79e9wSw8zN6BZv77IQ1ikDawxPnPOEjClJ4NMeumsbB9UVxibgX8KPCrykIcwzfb2Dqw0NUOlPF/6lY88dPyw7PWqKxKZ5Z0/tvnJQ7jUcifau9BojYWuNc55qtV4wFbwxH98vvIQzjXXZsnHSXM7shWK2eS6IGpjWkyMUTEshkRESzTFtlgW33eE/gX2I48lduS7kwAAAABJRU5ErkJggg=="/>
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="62" height="62" viewBox="0 0 62 62" xmlns="http://www.w3.org/2000/svg">
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 2px;" d="M 1.613 8.402 L 9.012 1.458 C 10.311 0.71 11.71 0.61 13.207 1.158 C 16.526 2.374 18.95 5.343 20.741 9.023 C 22.532 12.703 21.595 14.689 21.595 14.689 C 21.595 14.689 20.86 16.554 19.985 17.488 C 19.111 18.422 17.21 20.32 17.21 20.32 C 17.21 20.32 16.264 21.914 16.857 23.581 C 17.451 25.248 20.483 29.069 20.483 29.069 C 20.483 29.069 24.551 34.405 33.772 42.171 C 35.302 43.459 37.037 44.456 38.977 45.16 C 40.052 45.55 41.072 45.036 42.039 43.618 C 42.947 42.286 44.212 41.285 45.832 40.613 C 47.418 39.956 49.134 39.886 50.981 40.404 C 52.198 40.745 53.3 41.362 54.289 42.256 C 54.92 42.826 55.66 43.358 56.266 43.868 C 57.609 44.996 58.398 45.654 59.29 46.753 C 60.192 47.863 60.642 49.22 60.641 50.824 C 60.64 52.032 60.163 53.143 59.21 54.156 C 57.953 55.492 56.674 56.808 55.373 58.103 C 54.505 58.967 53.564 59.749 52.547 60.45 C 51.911 60.887 51.21 60.815 50.255 60.791 C 48.518 60.748 46.803 60.464 45.111 59.942 C 43.464 59.433 41.831 58.882 40.214 58.286 C 36.613 56.96 33.199 55.209 29.974 53.03 C 19.915 46.236 11.681 37.327 5.274 26.302 C 3.543 23.324 2.236 20.138 1.352 16.745 C 0.649 14.05 0.082 10.824 1.613 8.402 Z"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 16.86 21.366"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 15.606 27.579"/>
 </svg>

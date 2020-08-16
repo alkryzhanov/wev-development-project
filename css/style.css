@@ -349,6 +349,7 @@ html {
     text-decoration: none;
     text-transform: uppercase;
     color: #000;
+    border: none;
     border-radius: 10px;
     background-color: #fff;
     font-size: 20px;
@@ -386,7 +387,19 @@ html {
     margin-right: 0; }
 
   #about .card {
-    margin-bottom: 50px; } }
+    margin-bottom: 50px; }
+
+  #servicing .read-more__btn {
+    width: 100%; }
+
+  #pricing .order-now__btn {
+    width: 100%; }
+
+  #blog .more-view__btn {
+    width: 100%; }
+
+  #contact .submit__btn {
+    width: 100%; } }
 @media (max-width: 575.98px) {
   .header .header-content h1 {
     padding-top: 50px;
