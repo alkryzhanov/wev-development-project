@@ -362,6 +362,39 @@ html {
   font-size: 20px; }
 
 /*FOOTER  style ends*/
+/*ARROW button  style*/
+.arrow-up__btn {
+  position: fixed;
+  z-index: 1000;
+  right: 30px;
+  bottom: 30px;
+  display: inline-block;
+  visibility: hidden;
+  width: 50px;
+  height: 50px;
+  margin: 30px;
+  -webkit-transition: background-color .3s, opacity .5s, visibility .5s;
+  transition: background-color .3s, opacity .5s, visibility .5s;
+  text-align: center;
+  opacity: 0;
+  border-radius: 4px;
+  background-color: #3949ab; }
+  .arrow-up__btn:hover {
+    cursor: pointer;
+    background-color: #606DBB; }
+  .arrow-up__btn:active {
+    background-color: #555; }
+  .arrow-up__btn--icon {
+    margin-top: -1.5em;
+    -webkit-transform: translateY(50%);
+            transform: translateY(50%);
+    color: #fff; }
+
+.show {
+  visibility: visible;
+  opacity: 1; }
+
+/*ARROW button  style ends*/
 /*MEDIA HEADER queries*/
 @media (max-width: 767.98px) {
   .header .nav-btn {
